@@ -1,0 +1,10 @@
+.Cajita{
+    margin: 10% auto;
+    width: 40%;
+    padding: 10px 10px 10px 10px;
+}
+.sombra {
+    -webkit-box-shadow: 2px 2px 5px #999;
+    -moz-box-shadow: 2px 2px 5px #999;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color='#666666', Direction=135, Strength=4);
+}
